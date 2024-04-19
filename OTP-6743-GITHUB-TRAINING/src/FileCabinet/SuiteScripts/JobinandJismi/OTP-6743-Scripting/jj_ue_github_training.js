@@ -19,6 +19,9 @@ define(['N/record'],
         const beforeLoad = (scriptContext) => {
             log.debug("Hello");
             log.debug("hai");
+            log.debug("hai");
+            log.debug("hai");
+            log.debug("hai");
 
         }
 
